@@ -1,6 +1,6 @@
 {
   "name": "heimdall",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "slug": "heimdall",
   "legacy": false,
   "maintenance": {
@@ -8,7 +8,7 @@
     "version_regex": "(\\d+\\.\\d+\\.\\d+)-(ls\\d+)"
   },
   "description": "Application Dashboard",
-  "url": "https://github.com/petersendev/hassio-addons/tree/master/heimdall#readme",
+  "url": "https://github.com/conor-o-brien/hassio-addons/tree/master/heimdall#readme",
   "startup": "services",
   "arch": [
     "aarch64",
@@ -41,5 +41,5 @@
   },
   "environment": {
   },
-  "image": "petersendev/hassio-heimdall-{arch}"
+  "image": "conor-o-brien/hassio-heimdall-{arch}"
 }
