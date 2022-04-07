@@ -1,3 +1,7 @@
+## 0.1.4
+
+ - heimdall 2.4.10 (linuxserver/heimdall:2.4.10)
+
 ## 0.1.3
 
  - heimdall 2.2.2 (linuxserver/heimdall:2.2.2-ls149)
