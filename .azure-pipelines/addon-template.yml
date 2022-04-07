@@ -17,7 +17,7 @@ steps:
         --docker-user $(dockerUser) \
         --docker-password $dockerPassword \
         --addon ${{ parameters.arch }} -t /data/${{ parameters.addon }} \
-        --docker-hub petersendev --docker-hub-check ${{ parameters.additionalArgs }}
+        --docker-hub cob2141 --docker-hub-check ${{ parameters.additionalArgs }}
     displayName: 'Build ${{ parameters.addon }}'
     env:
       dockerPassword: $(dockerPassword)
