@@ -1,7 +1,7 @@
 {
     "build_from_template": {
         "image": "linuxserver/heimdall",
-        "version": "2.4.10"
+        "version": "2.4.10-ls166"
     },
     "build_from": {
         "armhf": "linuxserver/heimdall:arm32v7-2.4.10-ls166",
