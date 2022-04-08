@@ -10,7 +10,7 @@ pretty easy. Follow [the official instructions][third-party-addons] on the
 website of Home Assistant, and use the following URL:
 
 ```txt
-https://github.com/petersendev/hassio-addons
+https://github.com/conor-o-brien/hassio-addons
 ```
 
 ## Available addons
